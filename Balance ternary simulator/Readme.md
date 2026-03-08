@@ -1,0 +1,1 @@
+A virtual ALU simulation exploring Radix Economy (e \approx 2.718). Unlike binary (0, 1), this system uses -1 (T), 0, and 1, allowing for more efficient data representation and hardware-level subtraction without a dedicated sign bit.
